@@ -3,13 +3,13 @@
 Welcome to the **SaaS Virtual Edge Sandbox**! This is a completely self-contained, client-side single-page application dashboard designed to simulate a local AI processing infrastructure. 
 
 🌐 **Live Demo:** [nealod-d93.github.io/local-ai-saas/](https://github.io)
-
+🌐 **To use, please select your AI model in top left corner, then click Intialize Local AI.**
 ---
 
 ## 🖥️ Hardware Warnings & Requirements
 
 ⚠️ **GPU Required:** To actually step past the simulation sandboxes into true matrix processing, your system needs a modern GPU layer.
-🔥 **Warning:** I bet your little integrated **Intel HD graphics** will straight up go on fire trying to compute local tensor paths! Pull out a real machine (or at least some dual-channel Iris Xe power) before initializing the local cores.
+🔥 **Warning:** I bet your little integrated **Intel HD graphics** will straight up go on fire trying to compute local tensor paths! Pull out a real machine (or at least some dual-channel Iris Xe power) before initializing the local cores. Please use a RTX card for maximum peformance, if you have one! 🔥
 
 ---
 
